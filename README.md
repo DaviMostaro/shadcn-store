@@ -45,9 +45,9 @@ http://localhost:3000
 
 
 ## ✅ Funcionalidades
-- [x] <Funcionalidade 1 – Sistema de compra de produtos com sistema de carrinho
-- [x] <Funcionalidade 2 – Mensagem no Whatsapp para o cliente confirmando o pedido
-- [x] <Funcionalidade 3 - Use de context para salvar dados do carrinho.
+- [x] Funcionalidade 1 – Sistema de compra de produtos com sistema de carrinho
+- [x] Funcionalidade 2 – Mensagem no Whatsapp para o cliente confirmando o pedido
+- [x] Funcionalidade 3 - Use de context para salvar dados do carrinho.
 
 
 ## 👨‍💻 Autor
