@@ -4,8 +4,7 @@ Aplicação web simulando um site de vendas de comida. Criado usando principalme
 ## 🚀 Tecnologias Utilizadas
 - TypeScript
 - ReactJS
-- <Tecnologia 3 (Ex: TypeScript)>
-
+- 
 ## 📦 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 - [Git](https://git-scm.com)
